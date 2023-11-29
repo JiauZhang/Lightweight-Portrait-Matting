@@ -26,4 +26,13 @@ Implementation of [Lightweight Portrait Matting via Regional Attention and Refin
     booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     year={2021}
 }
+@misc{rw2019timm,
+    title={PyTorch Image Models},
+    author={Ross Wightman},
+    year={2019},
+    publisher={GitHub},
+    journal={GitHub repository},
+    doi={10.5281/zenodo.4414861},
+    howpublished = {\url{https://github.com/rwightman/pytorch-image-models}}
+}
 ```
